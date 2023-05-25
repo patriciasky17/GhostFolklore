@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "TheElevator.arreferenceimage"
+    },
+    {
+      "filename" : "TheFountain.arreferenceimage"
+    },
+    {
+      "filename" : "TheRoad.arreferenceimage"
+    },
+    {
+      "filename" : "TheStairs.arreferenceimage"
+    },
+    {
+      "filename" : "TheToilet.arreferenceimage"
+    }
+  ]
+}
